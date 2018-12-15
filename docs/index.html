@@ -39,14 +39,18 @@
         name: '文档',
         repo: 'https://github.com/taoGod/extraordinarywen', // 右上角小部件
         loadSidebar: true, //侧边栏，默认_sidebar.md，可自己指定，如：loadSidebar:'_side.md'
+        alias: { // 当前目录不存在，则回退上级目录找
+          '/.*/_sidebar.md': '/_sidebar.md',
+          '/.*/_navbar.md': '/_navbar.md'
+        },
         autoHeader: true,
         loadNavbar: true, // 顶部路由 默认_navbar.md
         coverpage: true, // 激活封面功能-_coverpage.md，可配置多个
-        onlyCover: true, //主页仅加载封面，不能滚动到其他页
-        subMaxLevel: 3, //侧边栏层级
-        auto2top: true, //路线更改时滚动到屏幕顶部
-        homepage: 'README.md', //主页，默认是README.md，也可自己指定
-        mergeNavbar: true, //Navbar将在较小的屏幕上与侧边栏合并
+        onlyCover: true, // 主页仅加载封面，不能滚动到其他页
+        subMaxLevel: 3, // 侧边栏层级
+        auto2top: true, // 路线更改时滚动到屏幕顶部
+        homepage: 'README.md', // 主页，默认是README.md，也可自己指定
+        mergeNavbar: true, // Navbar将在较小的屏幕上与侧边栏合并
         formatUpdated: '{MM}/{DD} {HH}:{mm}',
         notFoundPage: '_404.md', //默认_404.md  可根据层级指定 notFoundPage:{'/':'_404.md','/app':'app/_404.md'}
         search: {

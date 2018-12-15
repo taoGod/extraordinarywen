@@ -6,8 +6,9 @@
 
 [Vue](Vue/)
 [ionic](ionic/)
-[java](java/)
-[iOS](iOS/)
+[AI](AI)
+[go](go)
+
 
 <!-- background image -->
 
