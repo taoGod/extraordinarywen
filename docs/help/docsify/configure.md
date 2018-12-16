@@ -1,3 +1,7 @@
+这个后边慢慢补充吧，可以进该网站的 [代码仓库](https://github.com/taoGod/extraordinarywen)，瞅一眼 `index.html`。<br>
+也可以看一下 [官网](https://docsify.js.org/#/configuration)。
+
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -107,3 +111,5 @@
     <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   </body>
 </html>
+
+```

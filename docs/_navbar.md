@@ -1,8 +1,9 @@
 - category
   - [Vue](Vue/)
   - [ionic](ionic/)
-  - [AI](AI)
-  - [go](go)
+  - [Flutter](Flutter/)
+  - [AI](AI/)
+  - [go](go/)
 
 - document
   - [java](java/)
@@ -11,7 +12,7 @@
 
 - help
   - [gitHub](https://github.com/taoGod/extraordinarywen)
-  - [help](Markdown.md)
+  - [help](help/)
   - [home]()
 
   <!-- - [:us:, :uk:](/) -->
