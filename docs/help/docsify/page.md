@@ -1,4 +1,16 @@
-docsify 使用并扩展了Markdown语法，使文档更具可读性。
+docsify 使用并扩展了Markdown语法，使文档更具可读性。<br>
+
+## markdown
+[markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)<br>
+[Markdown 语法整理](https://www.jianshu.com/p/b03a8d7b1719)<br>
+
+### 引用
+
+```
+> 引用金句
+```
+
+> 引用金句
 
 ## 重要内容提示
 
