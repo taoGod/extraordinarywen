@@ -55,6 +55,8 @@ ionic cordova build android --release           release包，需要签名验证
 ionic cordova build android --release --prod    release包，需要签名验证,对资源进行深度压缩
 ```
 
+![002.png](assets/images/002.png)
+
 ## 生成签名密钥
 
 ```

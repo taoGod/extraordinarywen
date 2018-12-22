@@ -1,0 +1,1 @@
+?> 个人感觉还是先看一下 angular与css 或 [官方demo](https://github.com/ionic-team/ionic-preview-app) 比较好。下面会列举一些常用的例子。另外我觉得使用ionic开发，必须熟悉官方组件。但是如果需要组件的特有功能，则使用比较简单的 H5元素，写一下样式即可。
