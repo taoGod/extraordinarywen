@@ -1,4 +1,4 @@
-- [ionic介绍](ionic/)
+- [ionic](ionic/)
 - ionic基础
   - [快速开始](ionic/quick-start.md)
   - [开发环境](ionic/company-develop.md)
